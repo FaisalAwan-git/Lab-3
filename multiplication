@@ -1,0 +1,10 @@
+cout<<"My Name is:"<<Faisal Malik"; <br>
+cout<<"My Roll No is:"<<24-ST-060":
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a = 5, b = 10;
+    cout << "Multiplication: " << a * b << endl;
+    return 0;
+}
