@@ -1,0 +1,8 @@
+// main/calculator
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Name: Faisal Javed, Roll Number: 24-ST-060" << endl;
+    return 0;
+}
