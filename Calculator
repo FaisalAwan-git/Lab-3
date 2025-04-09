@@ -4,5 +4,6 @@ using namespace std;
 
 int main() {
     cout << "Name: Faisal Javed, Roll Number: 24-ST-060" << endl;
+    cout << "Sum: " << a + b << endl;
     return 0;
 }
